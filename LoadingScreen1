@@ -1,5 +1,5 @@
 -- Loading Screen
-if _G.LoadingScreen ~= false then
+if _G.LoadingScreeen ~= false then
 
                             local ScreenGui = Instance.new("ScreenGui")
                             local Frame = Instance.new("Frame")
@@ -53,7 +53,7 @@ if _G.LoadingScreen ~= false then
 end
 
 --// Loading UI
-if _G.LoadingScreen ~= false then
+if _G.LoadingScreeen ~= false then
 local Loading = Instance.new("ScreenGui")
 local MainFrame = Instance.new("Frame")
 local Title = Instance.new("TextLabel")
